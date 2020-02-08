@@ -1,0 +1,7 @@
+name: AutoOpenPort
+version: ${project.version}
+main: com.github.skpersonal.autoopenport.AutoOpenPort
+prefix: AOP
+authors: [shukichi0278]
+description: Automatic Opening Port
+website: https://github.com/skpersonal/AutoOpenPort
